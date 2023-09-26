@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mostafa ElNabawy</h1>
+<h1 align="center">Hi 👋, I'm Mostafa El-Nabawy</h1>
 <img src= "https://github.com/7arbeyx01/7arbeyx01/assets/18347638/6d161625-7e00-481b-b6fb-53a04efa1ed7">
 
 <h3 align="center">Whether it's investigating a potential security breach or developing new protocols to prevent cyber attacks, I am always eager to take on new challenges in the world of DFIR, Cloud Fronsic and cybersecurity. Also, I enjoy working with electronics, hardware, low level stuff, reverse engineering.</h3>
